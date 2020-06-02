@@ -1,0 +1,1 @@
+npm i s better-scroll//插件：用于移动端滑屏，满足条件滑动屏幕比真实屏幕长，页面dom加载完才能使用better-scroll
